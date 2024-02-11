@@ -1,0 +1,50 @@
+﻿body {
+    background-color: lightpink;
+}
+
+h1, h2, h3,h4 {
+    text-align: center;
+}
+
+.topPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 2%;
+    width: 96%;
+    height: 24%;
+    background-color: lightcyan;
+    color: darkblue;
+    text-align:center;
+}
+
+.leftPanel {
+    position: absolute;
+    left: 2%;
+    top: 28%;
+    width: 20%;
+    height: 70%;
+    background-color: lightsalmon;
+    color: darkgreen;
+}
+
+.centerPanel {
+    position: absolute;
+    left: 24%;
+    top: 28%;
+    width: 50%;
+    height: 70%;
+    background-color: darkgoldenrod;
+    color: darkblue;
+    text-align:center;
+}
+
+.rightPanel {
+    position: absolute;
+    left: 76%;
+    top: 28%;
+    width: 22%;
+    height: 70%;
+    background-color:lightgreen;
+    color: darkblue;
+}
